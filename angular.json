@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CUC"
+    }
+  },
+  "defaultProject": "CUC",
+  "cli": {
+    "analytics": "abb89e40-5e9e-4eff-a147-717b425ab2ce"
+  }
 }
